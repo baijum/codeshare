@@ -1,2 +1,3 @@
-# codeshare
-Share code for short time
+# CodeShare.in
+
+This repository contains source code for https://codeshare.in
